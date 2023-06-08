@@ -1,5 +1,5 @@
 PODS:
-  - EMAlertController (1.0.2)
+  - EMAlertController (1.0.3)
 
 DEPENDENCIES:
   - EMAlertController (from `../`)
